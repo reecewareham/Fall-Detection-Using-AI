@@ -1,0 +1,9 @@
+File contains link to our completed Trello board.
+
+https://trello.com/b/kLm3oA14/fall-detection-from-video-footages
+
+
+
+If link does not work due to not being signed into correct account, try this link:
+
+https://trello.com/invite/b/kLm3oA14/ATTIa02fb266bc7a3103be9d7e94016a73562B222738/fall-detection-from-video-footages

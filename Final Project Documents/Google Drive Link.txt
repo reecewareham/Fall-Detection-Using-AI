@@ -1,0 +1,11 @@
+Link to our Google Drive containing all of our project work including documentation and our code.
+Code can be found in three folders: 
+
+- "Algorithm Training" for SVM model training and testing code
+- "Merging Annotation Tool" for annotation and skeleton data merging tool
+- "Skeleton Model Tool" for the tool used to generate skeleton landmark data on video data
+
+"Training Data" contains all the data used to train our SVM model.
+"Final Documents" contains our final documents for upload.
+
+https://drive.google.com/drive/u/0/folders/1Xq5dxFyqQL_n0kYgcqdF1rQCeemm__A1
